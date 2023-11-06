@@ -14,7 +14,7 @@
 const blakeMarterella = {
   contact:     "blake@marterella.com.com",
   description: "Hi! I'm an entrepreneur, CS student at Virginia Tech, and an avid developer!",
-  passions:    ["Music", "Longboarding/Skateboarding", "Videogames", "Anime"],
+  passions:    ["Music", "Lifting", "3D Printing", "Homelab"],
   favorites:   ["Typescript", "Java", "Jira", "Nutella"],
   learning:    ["Web Dev", "Architecture", "CI/CD", "Kubernetes"],
   website:     "https://marterella.com",
