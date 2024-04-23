@@ -1,24 +1,23 @@
-<h1 align="center">Blake Marterella</h1>
-  <p align="center">
-  Computer Science at <a href="https://eng.vt.edu/academics/undergraduate-students/explore-engineering/computer-engineering.html" target="_blank">Virginia Tech<a>
-  </p>
-  <div align="center">
-    <em><a target="_blank" href="https://marterella.com">marterella.com</a></em>
-    <br />
-    <em><a target="_blank" href="mailto:blake@marterella.com">blake@marterella.com</a></em>
-  </div>
+<h1>Hi There, I'm <a href="https://marterella.com" target="_blank">Blake Marterella</a>! 👋</h1>
+
+I am a Computer Science student at Virginia Tech, passionate about leveraging leadership and technology to foster innovation and community. Beyond academia, I explore creativity through my hobbies, managing various programming projects, and continuously learning/applying new tech skills, aiming to better both myself and the communities I engage with.
+
+<a href="https://wakatime.com/@83c5d088-2d81-4caa-af42-5b39ae84b11b"><img src="https://wakatime.com/badge/user/83c5d088-2d81-4caa-af42-5b39ae84b11b.svg" alt="Total time coded since Sep 25 2023" /></a>
 
 ### `AboutMe.js`
 
 ```js
-const blakeMarterella = {
-  contact:     "blake@marterella.com.com",
-  description: "Hi! I'm an entrepreneur, CS student at Virginia Tech, and an avid developer!",
-  passions:    ["Music", "Lifting", "3D Printing", "Homelab"],
-  favorites:   ["Typescript", "Java", "Jira", "Nutella"],
-  learning:    ["Web Dev", "Architecture", "CI/CD", "Kubernetes"],
-  website:     "https://marterella.com",
-  llc_website:     "https://recursion.tech"
+const BlakeMarterella = {
+  email:          "blake@marterella.com",
+  website:        "https://marterella.com",
+  recursion_tech: "https://recursion.tech",
+  hobbies:        ["Bass Guitar", "Swimming", "3D Printing", "Homelab"],
+  favorite: {
+    programming_languages:  ["Typescript", "Java", "Python", "Haskell"],
+    js_frameworks:          ["AngularJS", "VueJS"],
+    software:               ["Notion", "Jira", "Figma"],
+    areas_of_cs:            ["Product Engineering", "Architecture", "CI/CD", "Web Dev"]
+  }
 };
 ```
 
