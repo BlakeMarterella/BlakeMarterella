@@ -1,4 +1,4 @@
-<h1>Hi There, I'm <a href="https://marterella.com" target="_blank">Blake Marterella</a>! 👋</h1>
+<h1>Hi there, I'm <a href="https://marterella.com" target="_blank">Blake Marterella</a>! 👋</h1>
 
 I am a Computer Science student at Virginia Tech, passionate about leveraging leadership and technology to foster innovation and community. Beyond academia, I explore creativity through my hobbies, managing various programming projects, and continuously learning/applying new tech skills, aiming to better both myself and the communities I engage with.
 
